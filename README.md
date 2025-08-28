@@ -1,6 +1,3 @@
-Certainly. **README.md Draft:**
-
-````markdown
 # File Organizer
 
 A simple Python script to automatically organize files in a target directory (by default, the **Downloads** folder) into categorized subfolders such as **Images, Documents, Videos, Audio, Archives, PDFs, etc.**
