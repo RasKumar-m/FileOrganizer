@@ -39,13 +39,12 @@ Files are sorted into the following categories:
 ## Installation
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/RasKumar-m/FileOrganizer.git
    cd FileOrganizer
-````
+``
 
-
-3. No external libraries are required beyond the Python standard library.
+2. No external libraries are required beyond the Python standard library.
 
 ---
 
@@ -53,8 +52,8 @@ Files are sorted into the following categories:
 
 1. Run the script:
 
-   ```bash
-   python file_organizer.py
+   ```
+   python FileOrganizer.py
    ```
 
 2. By default, it organizes the **Downloads** folder of the current user:
